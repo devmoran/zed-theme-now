@@ -1,0 +1,6 @@
+id = "noe-theme"
+name = "Noe"
+version = "1.0.0"
+description = "A minimal dark and light theme for Zed"
+authors = ["devmoran"]
+repository = "https://github.com/devmoran/zed-noe-theme"
